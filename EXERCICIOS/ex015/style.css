@@ -1,0 +1,18 @@
+@charset "UF-8;"
+<style>
+body {
+    background-color: rgb(179, 179, 61);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+h1 {
+    color: darkblue;
+}
+h2 {
+   color: rgb(185, 29, 61); 
+   background-color: aquamarine;
+}
+p {
+    text-align: justify;
+}
+</style>
